@@ -89,16 +89,6 @@ Less Overfitting
 
 ---
 
-## 📂 Project Structure
-
-```text
-ridge-regression-from-scratch/
-│
-├── ridge_regression.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ---
 
 ## 🔍 Comparison With Scikit-Learn
